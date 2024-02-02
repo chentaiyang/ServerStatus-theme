@@ -2,19 +2,19 @@
     "routes": [
         {
             "src": "/json/stats.json",
-            "dest": "http://95.217.231.26:8082/json/stats.json"
+            "dest": "https://tz.ln.cn/json/stats.json"
         },
         {
             "src": "/detail",
-            "dest": "http://95.217.231.26:8082/detail"
+            "dest": "https://tz.ln.cn/detail"
         },
         {
             "src": "/map",
-            "dest": "http://95.217.231.26:8082/map"
+            "dest": "https://tz.ln.cn/map"
         },
         {
             "src": "/i",
-            "dest": "http://95.217.231.26:8082/i"
+            "dest": "https://tz.ln.cn/i"
         },
         {
             "src": "/report",
